@@ -1,0 +1,10 @@
+weaviate-client
+flask
+FlagEmbedding
+numpy
+torch
+requests
+httpx
+openai
+together
+dlai_grader
