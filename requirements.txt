@@ -8,3 +8,6 @@ httpx
 openai
 together
 dlai_grader
+jupyter
+notebook
+jupyterlab
